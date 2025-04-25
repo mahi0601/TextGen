@@ -1,5 +1,9 @@
-torch
-transformers
-nltk
-rouge
-streamlit
+flask==2.3.2
+torch==2.2.1
+transformers==4.39.3
+nltk==3.8.1
+rouge==1.0.1
+redis==5.0.1
+rq==1.15.1
+tqdm==4.66.1
+requests==2.31.0
